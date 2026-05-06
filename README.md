@@ -77,7 +77,7 @@ git clone https://github.com/pr0mesy/exceptions-crud-spring
 
 `Entrar na pasta`
 ```
-cd exceptions
+cd exceptions-crud-spring
 ```
 
 `Executar`
